@@ -6,6 +6,8 @@ public class Programa {
         final Cachorro pitbull = new Cachorro();
         pitbull.zoologia = "Bipede";
 
+        //ao utilizar o atributo static dessa forma, altera o atributo zoologia para todos objetos
+
         final Cachorro viraLatas = new Cachorro();
 
         System.out.println(pitbull.zoologia);

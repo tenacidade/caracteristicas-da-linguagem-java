@@ -44,8 +44,8 @@ one/digitalinnovation/interfaces/Programa.java
  one.digitalinnovation.interfaces.Programa
 one/digitalinnovation/classes/Programa.java
  one.digitalinnovation.classes.Programa
-one/digitalinnovation/finals/Programa.java
- one.digitalinnovation.finals.Programa
+one/digitalinnovation/classes/pessoa/ProgramaPessoaFisica.java
+ one.digitalinnovation.classes.pessoa.ProgramaPessoaFisica
 one/digitalinnovation/abstracts/Programa.java
  one.digitalinnovation.abstracts.Programa
 one/digitalinnovation/tipos/primitivos/Primitivos.java
@@ -78,5 +78,5 @@ one/digitalinnovation/interfaces/Fiesta.java
  one.digitalinnovation.interfaces.Fiesta
 one/digitalinnovation/interfaces/Automovel.java
  one.digitalinnovation.interfaces.Automovel
-one/digitalinnovation/classes/pessoa/ProgramaPessoaFisica.java
- one.digitalinnovation.classes.pessoa.ProgramaPessoaFisica
+one/digitalinnovation/finals/Programa.java
+ one.digitalinnovation.finals.Programa

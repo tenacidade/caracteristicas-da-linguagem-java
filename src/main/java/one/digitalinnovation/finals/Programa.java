@@ -11,7 +11,7 @@ public class Programa {
 
         final var game = "PUBG";
 
-        //game = "WoW";
+        //game = "WoW"; //como é final, se eu tentar mudar o valor, não vou conseguir.
 
         System.out.println(casualGamer.play(game));
 

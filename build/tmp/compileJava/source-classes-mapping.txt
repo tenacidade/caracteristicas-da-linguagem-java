@@ -78,3 +78,5 @@ one/digitalinnovation/interfaces/Fiesta.java
  one.digitalinnovation.interfaces.Fiesta
 one/digitalinnovation/interfaces/Automovel.java
  one.digitalinnovation.interfaces.Automovel
+one/digitalinnovation/classes/pessoa/ProgramaPessoaFisica.java
+ one.digitalinnovation.classes.pessoa.ProgramaPessoaFisica

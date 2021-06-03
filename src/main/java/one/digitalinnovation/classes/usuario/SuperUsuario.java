@@ -16,5 +16,9 @@ public class SuperUsuario {
         return login;
     }
 
-    protected String getSenha() {return senha; }
+    protected String getSenha() {
+
+        return senha;
+    }
+
 }
